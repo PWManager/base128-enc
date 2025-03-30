@@ -1,2 +1,2 @@
-# base128-enc
+# base256-enc
 New encryption method!
