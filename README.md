@@ -1,2 +1,2 @@
-# base128-enc
-A javascript function for Node.js And Browser to using encryption of new base-128
+# base256-enc
+New encryption method!
