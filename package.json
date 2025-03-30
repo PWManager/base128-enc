@@ -1,0 +1,16 @@
+{
+  "name": "base128-enc",
+  "version": "1.0.0",
+  "description": "New encryption method!",
+  "main": "base256.js",
+  "scripts": {
+    "build": "npm install",
+    "test": "node tests/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^11.1.0"
+  }
+}
